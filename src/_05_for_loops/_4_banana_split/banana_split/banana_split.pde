@@ -7,5 +7,5 @@ text("icecream",x,y);
 y+=25;
 }
 text("banana",x,y);
-  
+  //
 }
